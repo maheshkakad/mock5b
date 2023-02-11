@@ -1,0 +1,47 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "username": "json-server",
+        "avatar": "typicode",
+        "email": "mahesh@gmail.com",
+        "password": "mahesh"
+      },
+      {
+        "username": "rrgd",
+        "email": "mahehs@gmail.com",
+        "password": "dsd",
+        "id": 2
+      },
+      {
+        "username": "dvxv",
+        "email": "mahehs@gmail.com",
+        "password": "scsac",
+        "id": 3
+      },
+      {
+        "username": "mahesh",
+        "email": "mahehs@gmail.com",
+        "password": "12345",
+        "id": 4
+      },
+      {
+        "username": "mahesh",
+        "email": "mahesh@gmail.com",
+        "password": "12345",
+        "id": 5
+      }
+    ],
+    "blogs": [
+      {
+        "username": {},
+        "title": "vxcv",
+        "category": "Entertainment",
+        "content": "vcxv",
+        "date": "2023-02-22",
+        "likes": 0,
+        "comments": [],
+        "id": 1
+      }
+    ]
+  }
